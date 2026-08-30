@@ -134,5 +134,4 @@ def ejecutar():
 
         time.sleep(INTERVALO)
 
-if __name == "__main__":
-    main()    
+main()    
