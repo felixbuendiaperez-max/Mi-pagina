@@ -134,4 +134,4 @@ def ejecutar():
 
         time.sleep(INTERVALO)
 
-main()    
+ejecutar()    
