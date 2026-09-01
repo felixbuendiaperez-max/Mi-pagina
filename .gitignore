@@ -1,0 +1,10 @@
+.env
+*.db
+*.log
+__pycache__/
+.bash_history
+.bashrc
+.cache/
+bot_backup*.py
+bot_error_backup.py
+bot_final_estable.py
