@@ -9,3 +9,5 @@ bot_backup*.py
 bot_error_backup.py
 bot_final_estable.py
 .gitconfig
+.config/
+bot_seguro_*.py
